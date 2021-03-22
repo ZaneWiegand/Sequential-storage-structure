@@ -1,0 +1,4 @@
+﻿  顺序存储结构.cpp
+c:\users\lenovo\desktop\数据结构\顺序存储结构\顺序存储结构\顺序存储结构.cpp(14): warning C4005: “OVERFLOW”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(967): note: 参见“OVERFLOW”的前一个定义
+  顺序存储结构.vcxproj -> C:\Users\lenovo\Desktop\数据结构\顺序存储结构\Debug\顺序存储结构.exe
